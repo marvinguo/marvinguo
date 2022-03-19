@@ -1,7 +1,7 @@
 ### Hi there 👋
 
 ##
-I am from China, +8TZ. I have 17 years experience of programming. I am looking for any Rust related remote jobs. I have follow experiences:
+I am from China, +8TZ. I have 17 years experience of programming. I am looking for any Rust related remote jobs. I have following experiences:
 
 1. Code in C++, Java, Go, Rust
 2. Know async paradigm well in different languages, libuv in C++, Netty in Java, Tokio in Rust
